@@ -1,4 +1,4 @@
-# Security Audit Report Generator for Linux
+# Security Audit Report for Linux
 
 ## Description
 The **Security Audit Report Generator for Linux** is a Python-based tool designed to automate security audits on Linux servers. It evaluates the system's configurations, identifies potential vulnerabilities, and generates a detailed report with actionable recommendations. This tool is ideal for system administrators, security professionals, and audit teams.
